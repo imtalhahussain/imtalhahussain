@@ -53,7 +53,7 @@ I’m open to **collaborations on real-world GenAI products** and open-source co
 ---
 
 ## 🛠️ Tech Stack
-**Python • FastAPI • PostgreSQL • Docker • GitHub Actions • Vector DBs • React**
+**Python • FastAPI • PostgreSQL • Docker • Langchain • GitHub Actions • Vector DBs • React**
 
 <!-- Optional: GitHub Stats (keep only if you want) -->
 <!--
