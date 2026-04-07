@@ -136,6 +136,8 @@
   <b>Vector Databases • LangChain • Pandas • NumPy • OpenTelemetry • Redis</b>
 </p>
 
+---
+
 ## 🌱 Currently Learning
 
 **LLMOps • Advanced RAG Evaluation • Observability (OpenTelemetry) • FastAPI Scaling • Kubernetes**
