@@ -1,63 +1,56 @@
-<h1 align="center">Talha Hussain</h1>
+
+---
+
+## ⚙️ Tech Stack
+
 <p align="center">
-  <b>AI Engineer • RAG Systems • Backend APIs • Agentic Workflows</b><br/>
-  Building production-grade GenAI systems with evaluation, reliability, and scalable APIs.
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,azure,react,git" />
 </p>
 
 <p align="center">
-  <a href="https://arlowcraft.com/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/md-talha-hussain/">LinkedIn</a> •
-  <a href="https://github.com/imtalhahussain">GitHub</a> •
-  <a href="mailto:imtalhahussain10@gmail.com">Email</a>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+<p align="center">
+  <b>Also:</b> Spark • Snowflake • Vector DBs • LangChain • Pandas • NumPy
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Insights
 
-### 🧠 Ayushman Bharat Policy Intelligence RAG System
-**Policy Q&A assistant** focused on robustness, eval-driven development, and provider-agnostic LLM design.  
-🔗 Repo: https://github.com/imtalhahussain/Ayushman-Bharat-Policy-Intelligence-RAG-System
-
-### ✈️ Agentic Travel Planner (Multi-Agent)
-An end-to-end **agentic travel planning system** that generates personalized itineraries from simple inputs.  
-🔗 Repo: https://github.com/imtalhahussain/travel-itinerary-ai
-
-### 🛒 Ecommerce VoiceBot (LiveKit)
-A **real-time voice commerce assistant** using LiveKit for interactive customer experiences.  
-🔗 Repo: https://github.com/imtalhahussain/ecommerce-voicebot-livekit
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imtalhahussain&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imtalhahussain&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🧩 What I’m focused on
-- **Production RAG** (retrieval, reranking, grounding, citations)
-- **Evaluation & reliability** (golden sets, regression tests, prompt/versioning)
-- **Backend APIs** (FastAPI, auth, rate limits, caching, background jobs)
-- **Observability** (logs, traces, metrics)
+## 📌 Current Focus
 
-## 🌱 Currently learning
-**LLMOps • RAG Evaluation • Observability (OpenTelemetry) • FastAPI scaling • Docker/Kubernetes**
+- LLMOps & Evaluation Systems  
+- Observability (OpenTelemetry)  
+- Distributed Systems & Scaling  
+- Kubernetes  
 
-## 💬 Ask me about
-**RAG systems, agentic workflows, LLM integration, and backend APIs.**
+---
 
-## 🤝 Let’s build
-I’m open to **collaborations on real-world GenAI products** and open-source contributions.
+## 🤝 Open To
+
+- AI Engineer / Data Engineer roles  
+- Backend (Python) roles with AI focus  
+- High-impact AI projects & collaborations  
+
+---
 
 ## 📫 Contact
-- Email: **imtalhahussain10@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/md-talha-hussain/
 
-⚡ Fun fact: I debug faster after chai. ☕😄
+- Email: **imtalhahussain10@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/md-talha-hussain/
 
 ---
 
-## 🛠️ Tech Stack
-**Python • FastAPI • PostgreSQL • Docker • Langchain • GitHub Actions • Vector DBs • React**
-
-<!-- Optional: GitHub Stats (keep only if you want) -->
-<!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imtalhahussain&show_icons=true" />
+  ⚡ <b>I build AI systems that move from idea → production.</b>
 </p>
--->
