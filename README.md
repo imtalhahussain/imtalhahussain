@@ -138,6 +138,14 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imtalhahussain&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🌱 Currently Learning
 
 **LLMOps • Advanced RAG Evaluation • Observability (OpenTelemetry) • FastAPI Scaling • Kubernetes**
@@ -147,6 +155,14 @@
 ## 💬 Ask me about
 
 **AI systems, LLM apps, RAG pipelines, backend APIs, and system design**
+
+---
+
+## 📊 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imtalhahussain&theme=tokyonight" />
+</p>
 
 ---
 
